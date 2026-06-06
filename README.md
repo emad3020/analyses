@@ -11,9 +11,11 @@
 
 ## 🚀 Key Features
 ---
+
 - ✅ **Clean Architecture** - Modularity and scalable project structure 
 - ✅ **Kotlin Friendly** -
-- 
+
+
 ## 🛠️ Installation
 
 ## 🔧 Usage
@@ -26,6 +28,7 @@
 
 ## 👨🏻‍💻 Contributing
 ---
+
 Pull requests are welcome. For significant changes, please open an issue to discuss what you would like to change. 
  - Fork the project
  - Create a new branch `git switch -c feature/myNewFeature`
@@ -35,13 +38,13 @@ Pull requests are welcome. For significant changes, please open an issue to disc
 
 ## 🌟Thanks
 ---
+
 If you see my project help you to understand and added something new to your knowledge I will be appreciated if you express about your thanks by a small cup of coffee
 
 <a href='https://ko-fi.com/H2H2EF20V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## 🪪 License
 ---
-<br>
 
     Copyright (c) 2026 Emad Askar
 
